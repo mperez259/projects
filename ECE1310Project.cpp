@@ -1,3 +1,5 @@
+//Black Jack Console App 
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
