@@ -1,3 +1,6 @@
+//sign language glove project using flex sensors. Takes voltage through ADC, gives value. 
+//Glove is built displaying voltages on LCD. Next task is to map voltage value ranges to sign language meanings.  
+
 #include <xc.h>
 #include <stdio.h>
 #include <math.h>
