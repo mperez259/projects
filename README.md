@@ -11,3 +11,5 @@ Some work and projects
 -math tutor project includeing a basic version and an improved version
 
 -some c++ calculation based programs including taylor series, signal to noise ratio, voltage/resistance calculations.
+
+-Neural Net in c++ (in Progress)
