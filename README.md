@@ -12,4 +12,7 @@ Some work and projects
 
 -some c++ calculation based programs including taylor series, signal to noise ratio, voltage/resistance calculations.
 
+-PWM motor control project
+
 -Neural Net in c++ (in Progress)
+
